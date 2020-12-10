@@ -1,6 +1,6 @@
-# Magento 2 Stripe Payment Gateway by MageTop
+# Magento 2 Stripe Payment Gateway by Magetop
 
-**Magento 2 Stripe Payment Gateway Extension** by MageTop helps integrate Stripe payment gateway in your Magento store and receive online payments from your customers. Stripe is a PCI compliant payment company which enables any user to make payments using a credit card or pay using Alipay. A customer can also save multiple cards information for future payment needs.
+**Magento 2 Stripe Payment Gateway Extension** by Magetop helps integrate Stripe payment gateway in your Magento store and receive online payments from your customers. Stripe is a PCI compliant payment company which enables any user to make payments using a credit card or pay using Alipay. A customer can also save multiple cards information for future payment needs.
 
 ## Highlight features
 
@@ -17,13 +17,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-stripe-payment-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
